@@ -1,0 +1,17 @@
+{
+  "name": "ccxt-test",
+  "version": "1.0.0",
+  "description": "Test ccxt TS",
+  "main": "src/index.js",
+  "author": "Ankit Saini <sainiankit@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "4.8.4"
+  },
+  "dependencies": {
+    "ccxt": "4.2.96"
+  }
+}
